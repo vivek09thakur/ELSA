@@ -1,1 +1,1 @@
-# Enhanced-Language-Sequence-Agent
+# Enhanced Language Sequence Agent
